@@ -24,6 +24,12 @@ class ViewController: UIViewController
         print("Hello, World !")
         
     }
+    
+    @IBAction func DontPressMeButtonPress(_ sender: Any) {
+        
+        print("No.")
+    }
+    
 }
 
 
